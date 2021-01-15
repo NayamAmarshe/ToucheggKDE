@@ -9,10 +9,14 @@ $ `cp touch* ~/.config/touchegg`
 
 ## Usage
 Swipe Gestures:
-  - 3 Fingers UP: **Present Windows**
-  - 3 Fingers DOWN: **Show Desktop**
-  - 3 Fingers LEFT/RIGHT: **Switch Virtual Desktops**
+  - 3 Fingers UP: **Present Windows**   
+  ![Present Windows](https://s2.gifyu.com/images/Present-Windows.gif)
+  - 3 Fingers DOWN: **Show Desktop**   
+    ![Present Windows](https://s2.gifyu.com/images/Show-desktop.gif)
+  - 3 Fingers LEFT/RIGHT: **Switch Virtual Desktops**   
+    ![Present Windows](https://s2.gifyu.com/images/Switch-Desktop.gif)
   - 4 Fingers UP/DOWN: **Control System Volume**   
+    ![Present Windows](https://s2.gifyu.com/images/Volume-Change.gif)
   - [Browsers] 4 Fingers LEFT/RIGHT: **Switch Tabs**
 
 Pinch Gestures:
