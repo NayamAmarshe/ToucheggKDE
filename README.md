@@ -1,6 +1,10 @@
 # ToucheggKDE
 TouchEgg configuration for Touchpad Gestures like MacOS/Windows for KDE Plasma.
 
+## Requirements
+1. Go to `System Settings` -> `Shortcuts` -> `Global Shortcuts` -> `Audio Volume`
+2. Set `Decrease Volume` Shortcut to `Alt+[` and `Increase Volume` Shortcut to `Alt+]`
+
 ## Installation
 [Install touchpad first if you haven't already](https://github.com/JoseExposito/touchegg)   
 $ `git clone https://github.com/NayamAmarshe/ToucheggKDE.git`   
@@ -27,6 +31,9 @@ $ `cp touch* ~/.config/touchegg`
   - [Browsers] 4 Fingers PINCH OUT: **Go back**
   - [Browsers] 4 Fingers PINCH IN: **Go Forward**  
 
-## Requirements
-1. Go to `System Settings` -> `Shortcuts` -> `Global Shortcuts` -> `Audio Volume`
-2. Set `Decrease Volume` Shortcut to `Alt+[` and `Increase Volume` Shortcut to `Alt+]`
+
+
+
+
+###### Tags (Please Ignore)
+<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>kde,gestures,macos,kde plasma,touchpad gestures,linux gestures,linux touchpad gestures,macos theme,linux gestures touchpad,touchpad gestures ubuntu,kde connect features,linux multitouch gestures,add multi touch trackpad gestures on linux,elementary os gestures,fusuma gestures,trackpad gestures,gestures elementary os,kde plasma customization,mouse gestures,kde connect ubuntu,linux touchpad gestures like mac,touchegg gestures,gestures on ubuntu,linux trackpad gestures,trackpad gestures linux, linux,linux gestures,linux touchpad gestures,gestures,touchpad gestures,linux multitouch gestures,linux gestures touchpad,linux distro,add multi touch trackpad gestures on linux,linux help,linux 2019,linux tutorial 2019,mac trackpad gestures,trackpad gestures,linux gesture mac,gesture su linux,linux gesture,linux trackpad gestures,trackpad gestures linux,macbook-like gestures linux,touchpad gestures linux,swipe gestures for linux,linux touchpad gestures like mac,touchpad gestures linux mint</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
