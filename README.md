@@ -19,6 +19,7 @@ $ `cp touch* ~/.config/touchegg`
   - 4 Fingers UP/DOWN: **Control System Volume**   
     ![Volume Control](https://s2.gifyu.com/images/Volume-Change.gif)
   - [Browsers] 4 Fingers LEFT/RIGHT: **Go Back/Forward**
+  ![untitled](https://user-images.githubusercontent.com/25067102/121768884-4b070080-cb7e-11eb-8657-bbbd570e5c2b.gif)
 
 ### Pinch Gestures:
   - 3 Fingers PINCH IN/OUT: **Desktops Grid View**   
