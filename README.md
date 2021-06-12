@@ -18,15 +18,13 @@ $ `cp touch* ~/.config/touchegg`
     ![Switch Desktop](https://s2.gifyu.com/images/Switch-Desktop.gif)
   - 4 Fingers UP/DOWN: **Control System Volume**   
     ![Volume Control](https://s2.gifyu.com/images/Volume-Change.gif)
-  - [Browsers] 4 Fingers LEFT/RIGHT: **Switch Tabs**
+  - [Browsers] 4 Fingers LEFT/RIGHT: **Go Back/Forward**
 
 ### Pinch Gestures:
-  - 2 Fingers PINCH IN/OUT: **Zoom IN/OUT**
   - 3 Fingers PINCH IN/OUT: **Desktops Grid View**   
     ![Desktop Grid View](https://s2.gifyu.com/images/Desktop-Grid.gif)
-  - [Browsers] 4 Fingers PINCH OUT: **Go back**
-  - [Browsers] 4 Fingers PINCH IN: **Go Forward**  
-
+  - 2 Fingers PINCH IN/OUT: **Zoom IN/OUT**
+  - [Browsers] 4 Fingers PINCH IN/OUT: **Switch Tabs**
 
 
 
