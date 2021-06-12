@@ -1,10 +1,6 @@
 # ToucheggKDE
 TouchEgg configuration for Touchpad Gestures like MacOS/Windows for KDE Plasma. Finally, enjoy the multi-touch touchpad gesture goodness of MacOS in KDE Plasma!
 
-## Requirements
-1. Go to `System Settings` -> `Shortcuts` -> `Global Shortcuts` -> `Audio Volume`
-2. Set `Decrease Volume` Shortcut to `Alt+[` and `Increase Volume` Shortcut to `Alt+]`
-
 ## Installation
 [Install touchegg first if you haven't already](https://github.com/JoseExposito/touchegg)   
 $ `git clone https://github.com/NayamAmarshe/ToucheggKDE.git`   
