@@ -3,10 +3,12 @@ TouchEgg configuration for Touchpad Gestures like MacOS/Windows for KDE Plasma. 
 
 ## Installation
 [Install touchegg first if you haven't already](https://github.com/JoseExposito/touchegg)   
-$ `git clone https://github.com/NayamAmarshe/ToucheggKDE.git`   
-$ `cd Touchegg*`   
-$ `mkdir ~/.config/touchegg`   
-$ `cp touch* ~/.config/touchegg/`   
+```shell
+git clone https://github.com/NayamAmarshe/ToucheggKDE.git
+cd Touchegg*
+mkdir ~/.config/touchegg
+cp touch* ~/.config/touchegg/
+```
 **That's it!**
 
 ## Usage
@@ -28,7 +30,20 @@ $ `cp touch* ~/.config/touchegg/`
   - 2 Fingers PINCH IN/OUT: **Zoom IN/OUT**
   - [Browsers] 4 Fingers PINCH IN/OUT: **Switch Tabs**
 
+## Troubleshoot
+If you're using OpenSUSE or other distros which don't have the `qdbus` package,
+do this:
+```shell
+nano ~/.bashrc
+````
+Then at the end of the file, add: `alias qdbus=”qdbus-qt5”`   
+Exit with Ctrl+O, Enter then Ctrl+X..
+Then
+```shell
+source ~/.bashrc
+```
 
+## 
 
 
 ###### Tags (Please Ignore)
