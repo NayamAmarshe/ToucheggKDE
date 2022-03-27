@@ -14,19 +14,14 @@ cp touch* ~/.config/touchegg/
 ## Usage
 ### Swipe Gestures:
   - 3 Fingers UP: **Present Windows**   
-  ![Present Windows](https://s2.gifyu.com/images/Present-Windows.gif)
   - 3 Fingers DOWN: **Show Desktop**   
-    ![Show Desktop](https://s2.gifyu.com/images/Show-desktop.gif)
   - 3 Fingers LEFT/RIGHT: **Switch Virtual Desktops**   
-    ![Switch Desktop](https://s2.gifyu.com/images/Switch-Desktop.gif)
   - 4 Fingers UP/DOWN: **Control System Volume**   
-    ![Volume Control](https://s2.gifyu.com/images/Volume-Change.gif)
   - [Browsers] 4 Fingers LEFT/RIGHT: **Go Back/Forward**
   ![untitled](https://user-images.githubusercontent.com/25067102/121768884-4b070080-cb7e-11eb-8657-bbbd570e5c2b.gif)
 
 ### Pinch Gestures:
   - 3 Fingers PINCH IN/OUT: **Desktops Grid View**   
-    ![Desktop Grid View](https://s2.gifyu.com/images/Desktop-Grid.gif)
   - 2 Fingers PINCH IN/OUT: **Zoom IN/OUT**
   - [Browsers] 4 Fingers PINCH IN/OUT: **Switch Tabs**
 
