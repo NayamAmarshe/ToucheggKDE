@@ -27,11 +27,18 @@ cp touch* ~/.config/touchegg/
 
 ## Troubleshoot
 If you're using OpenSUSE or other distros which don't have the `qdbus` package,
-do this:
+do this for QT 6:
+
+(After installation)
+1. Open `~/.config/touchegg/touchegg.conf`
+2. Search for `qdbus` and replace all occurances with `qdbus6`
+3. Save the file
+
+Or for QT 5:
 ```shell
 nano ~/.bashrc
 ````
-Then at the end of the file, add: `alias qdbus=”qdbus-qt5”`   
+Then at the end of the file, add: `alias qdbus=qdbus-qt5`   
 Exit with Ctrl+O, Enter then Ctrl+X..
 Then
 ```shell
